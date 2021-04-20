@@ -1,0 +1,35 @@
+﻿using System;
+
+namespace Question5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {   
+            
+            Console.Write("Input the number of elements to be stored in the array: ");
+            int numOfElements = Convert.ToInt32(Console.ReadLine());
+            int[] arr = new int[numOfElements];
+            
+            for (int i = 0; i < numOfElements; i++)
+            {   
+                Console.Write("Element - {0}: ", i);
+                arr[i] = Convert.ToInt32(Console.ReadLine());
+            }
+
+            Console.WriteLine($"Total number of duplicate elements found: {helper(arr)}");
+
+            static int helper(int[] arr) {
+                int count = 0;
+                for (int i = 0; i < arr.Length; i++) 
+                {
+                    for (int j = 0; j < arr.Length; j++) 
+                    {
+                        if (arr[i] == arr[j]) count += 1;
+                    }
+                }
+                return count;
+            }
+        }
+    }
+}
