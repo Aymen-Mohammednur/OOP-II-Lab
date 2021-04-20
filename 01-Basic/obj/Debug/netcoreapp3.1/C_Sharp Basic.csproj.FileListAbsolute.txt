@@ -1,0 +1,13 @@
+D:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\C_Sharp Basic\bin\Debug\netcoreapp3.1\C_Sharp Basic.exe
+D:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\C_Sharp Basic\bin\Debug\netcoreapp3.1\C_Sharp Basic.deps.json
+D:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\C_Sharp Basic\bin\Debug\netcoreapp3.1\C_Sharp Basic.runtimeconfig.json
+D:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\C_Sharp Basic\bin\Debug\netcoreapp3.1\C_Sharp Basic.runtimeconfig.dev.json
+D:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\C_Sharp Basic\bin\Debug\netcoreapp3.1\C_Sharp Basic.dll
+D:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\C_Sharp Basic\bin\Debug\netcoreapp3.1\C_Sharp Basic.pdb
+D:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\C_Sharp Basic\obj\Debug\netcoreapp3.1\C_Sharp Basic.csprojAssemblyReference.cache
+D:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\C_Sharp Basic\obj\Debug\netcoreapp3.1\C_Sharp Basic.AssemblyInfoInputs.cache
+D:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\C_Sharp Basic\obj\Debug\netcoreapp3.1\C_Sharp Basic.AssemblyInfo.cs
+D:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\C_Sharp Basic\obj\Debug\netcoreapp3.1\C_Sharp Basic.csproj.CoreCompileInputs.cache
+D:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\C_Sharp Basic\obj\Debug\netcoreapp3.1\C_Sharp Basic.dll
+D:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\C_Sharp Basic\obj\Debug\netcoreapp3.1\C_Sharp Basic.pdb
+D:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\C_Sharp Basic\obj\Debug\netcoreapp3.1\C_Sharp Basic.genruntimeconfig.cache
