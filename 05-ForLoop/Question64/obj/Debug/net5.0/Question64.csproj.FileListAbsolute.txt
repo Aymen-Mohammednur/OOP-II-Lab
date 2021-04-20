@@ -1,0 +1,16 @@
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\bin\Debug\net5.0\Question64.exe
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\bin\Debug\net5.0\Question64.deps.json
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\bin\Debug\net5.0\Question64.runtimeconfig.json
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\bin\Debug\net5.0\Question64.runtimeconfig.dev.json
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\bin\Debug\net5.0\Question64.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\bin\Debug\net5.0\ref\Question64.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\bin\Debug\net5.0\Question64.pdb
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\obj\Debug\net5.0\Question64.csprojAssemblyReference.cache
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\obj\Debug\net5.0\Question64.GeneratedMSBuildEditorConfig.editorconfig
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\obj\Debug\net5.0\Question64.AssemblyInfoInputs.cache
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\obj\Debug\net5.0\Question64.AssemblyInfo.cs
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\obj\Debug\net5.0\Question64.csproj.CoreCompileInputs.cache
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\obj\Debug\net5.0\Question64.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\obj\Debug\net5.0\ref\Question64.dll
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\obj\Debug\net5.0\Question64.pdb
+d:\School Stuff\3rd Year - 1st Sem\Object-Oriented Programming II\05-ForLoop\Question64\obj\Debug\net5.0\Question64.genruntimeconfig.cache
