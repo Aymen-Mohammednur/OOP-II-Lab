@@ -6,7 +6,18 @@ namespace Question1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Welcome();
+            NiceDay();
+        }
+
+        static void Welcome()
+        {
+            System.Console.WriteLine("Welcome Friends!");
+        }
+
+        static void NiceDay()
+        {
+            System.Console.WriteLine("Have a nice day!");
         }
     }
 }
