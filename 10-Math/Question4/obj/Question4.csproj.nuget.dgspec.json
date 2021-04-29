@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question4\\Question4.csproj": {}
+    "d:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question4\\Question4.csproj": {}
   },
   "projects": {
-    "D:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question4\\Question4.csproj": {
+    "d:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question4\\Question4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question4\\Question4.csproj",
+        "projectUniqueName": "d:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question4\\Question4.csproj",
         "projectName": "Question4",
-        "projectPath": "D:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question4\\Question4.csproj",
+        "projectPath": "d:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question4\\Question4.csproj",
         "packagesPath": "C:\\Users\\Aymenua\\.nuget\\packages\\",
-        "outputPath": "D:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question4\\obj\\",
+        "outputPath": "d:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aymenua\\AppData\\Roaming\\NuGet\\NuGet.Config",

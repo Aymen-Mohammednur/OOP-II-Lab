@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question9\\Question9.csproj": {}
+    "d:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question9\\Question9.csproj": {}
   },
   "projects": {
-    "D:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question9\\Question9.csproj": {
+    "d:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question9\\Question9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question9\\Question9.csproj",
+        "projectUniqueName": "d:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question9\\Question9.csproj",
         "projectName": "Question9",
-        "projectPath": "D:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question9\\Question9.csproj",
+        "projectPath": "d:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question9\\Question9.csproj",
         "packagesPath": "C:\\Users\\Aymenua\\.nuget\\packages\\",
-        "outputPath": "D:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question9\\obj\\",
+        "outputPath": "d:\\School Stuff\\3rd Year - 1st Sem\\Object-Oriented Programming II\\Assignments\\10-Math\\Question9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aymenua\\AppData\\Roaming\\NuGet\\NuGet.Config",

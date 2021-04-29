@@ -6,7 +6,9 @@ namespace Question3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int value = 3;
+            for (int power = 0; power <= 32; power++)
+                Console.WriteLine($"{value}^{power} = {(long)Math.Pow(value, power):N0}");
         }
     }
 }
