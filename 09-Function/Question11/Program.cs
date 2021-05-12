@@ -8,11 +8,11 @@ namespace Question11
         {   
             Console.Write("Input a number: ");
             int num = Convert.ToInt32(Console.ReadLine());
-            decimal fact = Factorial(num);
-            Console.WriteLine("The factorial of {0} is {1}", num, fact);
+            double fact = Factorial(num);
+            Console.WriteLine($"The factorial of {num} is {fact}");
         }
 
-        static decimal Factorial(int num)
+        static double Factorial(int num)
         {
             if (num == 0)
             {
